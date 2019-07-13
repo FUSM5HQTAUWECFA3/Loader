@@ -1,1 +1,1 @@
-load32.dll
+appraiser.dll
